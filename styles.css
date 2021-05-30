@@ -1,23 +1,65 @@
+body {
+  background: #c8d0c8;
+}
+
+/* RESET */
 * {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   border: 1px solid lavender;
 }
 
+/* Nav-Bar Section */
 .nav-bar {
   background: #768a76
-}
-
-body {
-  background: #c8d0c8;
-
 }
 
 button {
   background: transparent;
 }
 
-.card-section {
+/* GRID */
+.card-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+/* CARD SECTION */
+.top-card {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.globe {
+  position: absolute;
+  top: 0.5em;
+  left: 0.5em;
+  width: 2vw;
+}
+
+.top-text {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+}
+
+.top-text-num {
+  position: absolute;
+  top: 2.5em;
+  right: 1em;
+}
+
+.place-img {
+  width: 20vw;
+  height: 20vh;
+  object-fit: cover;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-flow: wrap;
+  justify-content: center;
+
 }
