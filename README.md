@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+# Static Comp
+### Table of Contents
+- [Overview](#overview-and-project-goals)
+- [Features](#features)
+- [How does this work?](#how-does-this-work)
+- [Project Reflection](#project-reflection)
+- [How To Contribute](#want-to-contribute)
+- [Instructions for Running Project](#Instructions-for-running-project)
+- [Authors and Contributors](#credits)
 
-You can use the [editor on GitHub](https://github.com/Eva-Navarrete/static-comp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Overview and Project Goals
+The [goal](https://frontend.turing.edu/projects/module-1/intention-timer-group.html) of this group project that was made for Mod1 at [Turing School of Software and Design](https://turing.io/) is to build a Rock Paper Scissor's Game from scratch using HTML, CSS, and Vanilla Javascript.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why was this project created?
+To solidify and demonstrate the understanding of:
+1. Write Semantic HTML 
+2. Better understand CSS and make page responsive 
 
-### Markdown
+## Features
+* Change views from mobile to computer screen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[Back to top](#table-of-contents)**
 
-```markdown
-Syntax highlighted code block
+## How does this work?
+![](
+![]()
+![]()  
+<!-- Giphy video link go in here -->
 
-# Header 1
-## Header 2
-### Header 3
+GitHub Page Link: https://github.com/Eva-Navarrete/static-comp
 
-- Bulleted
-- List
+**[Back to top](#table-of-contents)**
 
-1. Numbered
-2. List
+## Want to contribute?
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Instructions for Running Project
+1. Clone this [repository.](https://github.com/Eva-Navarrete/static-comp)
+2. `cd` into the repository in your terminal.
+3. Then `open index.html` in your terminal to view it on your browser.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technologies Used
+<p align="left">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</p>
 
-### Jekyll Themes
+## Project Reflection
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eva-Navarrete/static-comp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Wins
+*  Recreating the original comp
 
-### Support or Contact
+##### Challenges
+* Making web responsive to multipe screens
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### Overall Impressions
+* CSS is fun but it takes time and effort
+
+
+#### Future Features
+* Give the page functionality
+
+
+Visit My Page [Static-Comp](https://eva-navarrete.github.io/static-comp/)
+
+## Credits
+#### Authors
+<table>
+     <tr>
+          <td> Eva Navarrete <a href="https://github.com/Eva-Navarrete">GH</td>
+      </tr>
+      </tr>
+<td><img src="https://avatars.githubusercontent.com/u/68021391?v=4" alt="Eva GH img"
+width="150" height="auto" /></td>
+    </tr>
+</table>
+
+#### Reviewers
+* NONE
+
+**************************************************************************
+###### This project was created for [Turing School of Software and Design](https://turing.io/)
+###### 2021/05/31
+**[Back to top](#table-of-contents)**
