@@ -23,7 +23,8 @@ To solidify and demonstrate the understanding of:
 
 ## How does this work?
 <img src="https://github.com/Eva-Navarrete/static-comp/blob/main/assets/Screen%20Shot%202021-05-31%20at%203.09.04%20PM.png?raw=true" alt="static comp pic"/>
-![](https://media.giphy.com/media/yGZiyIG6mTeS1i4L4L/giphy.gif)
+
+![Video on how it works](https://media.giphy.com/media/yGZiyIG6mTeS1i4L4L/giphy.gif)
  
 <!-- Giphy video link go in here -->
 
