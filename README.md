@@ -22,7 +22,7 @@ To solidify and demonstrate the understanding of:
 **[Back to top](#table-of-contents)**
 
 ## How does this work?
-![] (https://github.com/Eva-Navarrete/static-comp/blob/main/assets/Screen%20Shot%202021-05-31%20at%203.09.04%20PM.png?raw=true)
+<img src="https://github.com/Eva-Navarrete/static-comp/blob/main/assets/Screen%20Shot%202021-05-31%20at%203.09.04%20PM.png?raw=true" alt="static comp pic"/>
 ![]()
  
 <!-- Giphy video link go in here -->
